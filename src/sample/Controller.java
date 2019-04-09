@@ -55,6 +55,7 @@ public class   Controller implements Initializable
         update();
 
     }
+
     public void filter(ArrayList<Question> t)
     {
         for(int i=0;i<t.size();i++)
@@ -116,10 +117,41 @@ public class   Controller implements Initializable
             }
 
     }
+    public void loseCondition()
+    {
+        if(pol >= 10){
+            gameState = false;
+            question.setText("Due to your policies, the environment is now uninhabitable. You Lose.");
+            optionOne.setText("Nice");
+            optionTwo.setText("Not Nice");
+        }
+        else if(bio <= -10)
+        {
+            gameState = false;
+            question.setText("All of the local fauna and flora have died out. Your town slowly devolves into a lifeless block.");
+            optionOne.setText("Nice");
+            optionTwo.setText("Not Nice");
+        }
+        else if(mon <= -10)
+        {
+            gameState = false;
+            question.setText("Your fiscal policies have bankrupted the town. Your are driven out.");
+            optionOne.setText("Nice");
+            optionTwo.setText("Not Nice");
+        }
+        else if(pub <= -10)
+        {
+            gameState = false;
+            question.setText("Your gross incompetence has lead to you being forced to resign.");
+            optionOne.setText("Nice");
+            optionTwo.setText("Not Nice");
+        }
+    }
 
 
     public void update()
     {
+        loseCondition();
         if(tracker < temp.size())
         {
             tracker++;
@@ -158,7 +190,7 @@ public class   Controller implements Initializable
     }
 
     public void handler(javafx.event.ActionEvent event) {
-
+        loseCondition();
         if(gameState &&tracker < temp.size())
         {
 
