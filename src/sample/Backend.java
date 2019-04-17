@@ -21,13 +21,7 @@ public class Backend {
 
 
         ArrayList<Question> z = new ArrayList<>();
-
-        /**
-         * Note to self:
-         *
-         * Change scores.csv to w/e the csv is going to be named.
-         */
-        Path pathToFile = Paths.get("src/Test.csv");
+        Path pathToFile = Paths.get("src/final.csv");
 
         try (BufferedReader br = Files.newBufferedReader(pathToFile, StandardCharsets.UTF_8)) {
                 String line = br.readLine();

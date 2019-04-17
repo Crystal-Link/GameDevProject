@@ -105,11 +105,11 @@ public class Question {
         int d = Integer.parseInt(info[3]);
         String sc = info[4];
         String yP = info[5];
-        String nP = info[6];
-        int yPol = Integer.parseInt(info[7]);
-        int yMon = Integer.parseInt(info[8]);
-        int ySup = Integer.parseInt(info[9]);
-        int yBio = Integer.parseInt(info[10]);
+        String nP = info[10];
+        int yPol = Integer.parseInt(info[6]);
+        int yMon = Integer.parseInt(info[7]);
+        int ySup = Integer.parseInt(info[8]);
+        int yBio = Integer.parseInt(info[9]);
         int nPol = Integer.parseInt(info[11]);
         int nMon = Integer.parseInt(info[12]);
         int nSup = Integer.parseInt(info[13]);

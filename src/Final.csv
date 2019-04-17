@@ -1,0 +1,49 @@
+0,0,0,0,Lobbyists push for deforestation bill- do you accept?,Money doesn't grow on trees.  Give me more!,1,1,0,-2,Our trees our more important. ,-1,0,1,1
+0,2,0,0,Big Oil Co offers to build a new oil rig.,More oil? Of course. ,2,1,1,-2,We have enough already. ,-1,0,-1,1
+1,1,-1,-2,Untested pesticides flood the agriculture industry- how do you respond?,What's the worst that can happen?,4,3,-2,-4,I'll not risk the safety of the nation! ,0,-2,0,1
+1,0,0,-3,New Invasive Species begin to take root.,It's a national emergency!,0,-3,0,1,Do Nothing ,4,-2,0,-5
+0,0,0,0,Terrorist attacks in your country spur widespread unrest.,Retaliate at once!,4,-4,5,-1,We can work this out ,1,-1,-5,0
+4,0,-2,-1,Protesters camp outside city hall- demanding wildlife reforms.,Reassure them with promise of a wildlife protection act.,0,-1,3,0,Do Nothing ,0,0,-2,0
+3,0,0,-2,A rat infestation sweeps the city.  The restraunt industry is crippled.  How do you respond?,Push for new health and safety protocols.,-1,-2,1,-1,Attack restaurant owners for being dirty.,-1,0,-2,0
+-2,0,0,0,A local activism group nominates you for a Cleany- a prestigious wildlife protection award!  Do you accept?,Sure!  I love being the center of attention!,0,0,2,0,Ignore their award.,0,0,0,0
+0,3,0,0,A retail giant offers to build a new headquarters in your city.,Accept- increasing profit and spending by a large margin.,1,5,-1,0,Back down after all the people in your city get mad about the deal for some reason...,1,-2,1,0
+0,2,1,0,Tech industry begins to take off.,Pressure people in low income neighborhoods to relocate and make space for growing businesses.,1,3,-2,0,Condemn the industry on a live broadcast- slowing its expansion in the city.,1,-1,-1,-1
+0,0,0,0,Heavy rainfall floods dam- farms are destroyed,Support our farmers!,1,-3,2,-1,There are more pressing issues.,0,1,-2,0
+0,-2,0,0,Rising food prices lead to riots,Crackdown on rioters.,0,-1,-3,0,Set up soup kitchens.,0,-4,2,0
+0,0,0,0,Hurricane rips through nearby town,Provide assistance towards the recovery effort,-1,-3,3,0,They can handle it on their own.,1,0,-2,0
+0,-5,0,0,Mass shooting- dozens killed.,Offer Thoughts and Prayers,0,0,-4,0,We need reform.,0,-2,3,0
+1,1,0,-1,Fund environmental conservation classes.,Seems pointless.,1,1,-1,-1,We need to do better,-1,-2,1,1
+2,0,0,-2,Local environmental group applies for a parade permit.,I love parades!,-1,-1,-1,-1,This is a waste of time.,1,1,1,1
+1,0,0,0,Set up a local recycling center,A good investment if I do say so myself.,0,-2,1,0,Does it matter where my bottles go?,2,0,-2,-1
+0,-3,0,0,PonId electricy company warns of a possible blackout.,Place limits on energy usage.,0,-1,-1,0,Ignore their words.,0,1,1,0
+0,0,0,0,Create a game design competition that encourages environmental consciousness,Really oddly specific- but sure!,-3,0,-1,1,Ehhhh....,2,2,0,-1
+0,-4,0,0,Wear and tear on the roads and sidewalks.,We need new roads!,2,-1,1,-1,We can make do.,1,0,-1,0
+0,5,1,0,All time high economic activity. How you respond?,Brag about it.,0,0,1,1,Remain humble.,0,0,0,-1
+2,0,0,0,Local school doesn't recycle.,Visit and talk about the benefits of recycling.,1,0,1,0,Impose fees onto the school.,-1,4,-1,-1
+0,-2,0,0,Workers demand an increase to minimum wage,Minimum wage is a right.,0,-2,4,0,It'll just cause inflation.,0,2,-2,0
+0,2,-2,0,A member of your cabinet was involved in a scandal!,Fire them immediately!,0,3,2,0,Attempt to cover it up.,0,-2,-1,0
+0,0,0,0,A red hatted plumber goes around town asking to inspect people's pipes.,That's disturbing.,0,0,0,0,I think it should be fine?,0,0,1,0
+0,0,0,0,Smog is covering the city!,Enact new laws!,-1,-2,2,-1,Give people free cough drops.,3,-1,1,-2
+2,0,0,-2,There is illegal dumping in the town's river.,We must catch these wrongdoers!,0,0,1,0,A tiny bit of muck never hurt anyone.,0,0,-1,0
+1,-1,0,0,A harmful amount of lead has been found in the water supply.,We're fixing this ASAP!,-4,-3,2,0,Lead is what gives our water its unique taste!,3,1,-2,1
+0,0,0,-3,Poachers kill endangered local fauna- sells pelts to clothing company. ,Ban company from operating in the country.,-1,0,1,2,I could be pursuaded to turn a blind eye...,1,2,-1,-3
+0,0,-5,0,Protestors egg you.,Shrug it off- calling it an act of free speech.,0,0,1,0,Detain them.,0,-1,1,0
+0,0,0,0,Robocalls swarm the country.,Call for new regulation.,0,-2,-1,0,Deal with it.,0,-1,1,0
+0,0,0,0,Environmentalists want to host a convention in a local stadium.,Go for it!,-1,0,1,1,I prefer sports instead.,1,0,-1,-1
+0,0,0,0,Anti-Science movement sweeps the nation.,Denounce the movement.,0,0,0,0,Ignore it instead.,0,0,0,0
+1,-2,0,3,S-TEEL Co. closes down a plant in your city.,Negotiate to keep it open.,3,-3,2,-2,Let it go instead.,-2,1,-1,2
+-2,2,0,0,Protestors demand better sanitation.,Keep our streets cleans.,-3,-3,3,1,I'd rather not dirty my wallet.,2,1,-3,-2
+0,-4,0,0,Spiking unemployment across the country. Protests are breaking out.,Time to make some new jobs.,-2,4,2,-1,If they can protest- they can find a job too.,1,0,-2,0
+0,0,0,0,Local fauna in risk of going extinct- what should we do?,We must protect our animals.,-2,-2,1,2,We already have pictures of them.,1,0,-1,-2
+0,0,0,0,An asthma epidemic is crippling productivity!,We must clean our mess.,-1,-3,2,0,It's just a bad cough- don't worry about it.,2,0,-2,0
+-2,0,0,0,Animal corpses found with plastic bags in their stomachs,Ban plastic bags,-2,1,0,3,It's an one time thing!,1,0,-1,-2
+-4,0,0,0,Study reveals billions of plastic straws fill the ocean.,We should do our part and ban plastic straws.,-2,1,1,3,But they're so convienient!,2,0,-1,-2
+0,0,0,-3,Animal population dwindles due to unknown disease.,We should get experts to look into this.,-1,-3,2,2,Sounds expensive.,1,1,-2,-3
+0,0,0,0,Real estate developers want to buy local woods to build condos.,Our woods are not for sale.,-1,0,0,1,We could use the money.,2,4,0,-2
+0,0,0,0,Scientists suggest building a new hydroelectric power plant.,Green energy is the way to go.,-2,-4,2,-2,It's too dangerous- we need an alternative.,0,1,-1,0
+0,-3,0,0,Our treasury is short- we need to do something.,Cut expenses and regulations.,0,1,-1,0,Increase taxes.,0,3,-1,0
+0,0,0,0,A student creates a new environmentally friendly fertilizer.,Employ the fertilizer ,-2,-2,1,2,As if they know any better.,1,0,-2,-2
+0,0,0,0,A once in a lifetime solar eclipse occurs. Do you attend?,Of course- nature is beautiful.,0,0,1,0,I have better things to do with my time.,0,0,0,0
+0,0,0,0,Record breaking temperatures burn the country.,Warn the populace to stay indoors.,-1,-1,1,-1,They can check the weather channel.,-1,0,-2,-1
+0,2,0,0,There is a petition to build a new park.,I like the sound of that.,-1,-2,2,1,We can't all get what we want.,1,0,-1,0
+0,0,0,0,An oil pipeline exploded- leaking hundreds of gallons of oil.,We need a cleanup crew right now.,-1,-3,3,1,It's a travesty- but what can you do?,3,-1,-2,-1
