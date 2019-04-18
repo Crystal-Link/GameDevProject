@@ -21,7 +21,7 @@ public class Main extends Application {
 
 
     public static void main(String[] args) {
-        List<Question> l = Backend.fromCSV();
+
 
         launch(args);
     }

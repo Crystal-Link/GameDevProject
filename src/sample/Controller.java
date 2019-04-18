@@ -12,6 +12,7 @@ import javafx.scene.control.cell.PropertyValueFactory;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
+import java.io.IOException;
 import java.lang.reflect.Array;
 import java.net.URL;
 import java.util.ArrayList;
@@ -49,7 +50,11 @@ public class   Controller implements Initializable
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         gameState = true;
-        temp = Backend.fromCSV();
+        try {
+            temp = Backend.fromCSV();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
         Collections.shuffle(temp);
         filter(temp);
         update();
